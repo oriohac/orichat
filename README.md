@@ -1,2 +1,2 @@
 # orichat
-This is a mini chat app created with PHP.
+I created a little php application where users can chat over the net, with the help of rresearch and tools like Jquery.
